@@ -12,9 +12,9 @@ Library for displaying dictionaries in python vs. >= 3
 ```
 
 **optional arguments:**  
-* -h, --help  show this help message and exit  
-* space=3     determine what width to use for the levels in detail function  
-* level=0     determine starting level  
+. -h, --help  show this help message and exit  
+. space=3     determine what width to use for the levels in detail function  
+. level=0     determine starting level  
 
 **description:**  
 This file can be used as a module with 2 methods: detail() and summary()  
