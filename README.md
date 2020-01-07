@@ -8,7 +8,7 @@ Library for displaying dictionaries in python vs. >= 3
 ```python
 >>> import pdict  
 >>> myDict = {12.98675:  [{1:3}], "test2": [(1,{1:'qrest1',2:'qrest2'}), (3,4)], }  
->>> pdict.displ(myDict, space=5)```
+>>> pdict.displ(myDict, space=5) ```
 
 **optional arguments:**  
     -h, --help  show this help message and exit  
